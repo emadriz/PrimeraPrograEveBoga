@@ -16,7 +16,6 @@ struct sockaddr_in datosServidor, datosCliente;
 int tamanoSin;
 
 
-
 void servidor()
 {
 	//int clienteConectado;
